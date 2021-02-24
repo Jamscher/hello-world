@@ -1,2 +1,2 @@
 # hello-world
-Test repository
+This repository is intended for practice of basic GitHub operations.
